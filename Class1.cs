@@ -8,7 +8,7 @@ namespace jenkinstest
         public Class1()
         {
 
-            Console.WriteLine("Test2");
+            Console.WriteLine("Test3");
         }
     }
 }
